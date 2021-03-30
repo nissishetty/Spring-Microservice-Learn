@@ -1,6 +1,6 @@
 # Spring-Microservice-Learn
 
-Above 3 application are seperate Spring-boot project.
+Above 3 applications are seperate Spring-boot project.
 
 Movie-catalog-service implements movie-info and movie-rating using microservice architecture.
 
